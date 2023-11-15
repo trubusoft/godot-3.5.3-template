@@ -1,0 +1,1 @@
+Template for Godot 3.5.3 project.
